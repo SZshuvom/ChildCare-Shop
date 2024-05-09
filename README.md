@@ -2,7 +2,7 @@
 
 An online child care shop where you can check for childcare products and get necessary FAQ for your child health concerns. You can also get contact numbers of pediatric health specialist in your area.
 
-## Developed with,
+## Developed with
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <!-- <p align="center">
