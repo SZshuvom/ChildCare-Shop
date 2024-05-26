@@ -50,7 +50,7 @@
 
                             @if($item->discount)
                             <div class="discount-badge">
-                                <span>-{{ $item->discount }}% OFF</span>
+                                <span>{{ $item->discount }}% OFF</span>
                             </div>
                             @endif
 
